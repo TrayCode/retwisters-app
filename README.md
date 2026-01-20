@@ -1,6 +1,6 @@
 # Retwisters (iOS Portfolio App)
 
-Retwisters is a personal iOS development project used to practice and demonstrate mobile app development skills.
+A production-oriented iOS application demonstrating real-world app architecture, state management, and Firebase-backed workflows
 
 ## Overview
 
